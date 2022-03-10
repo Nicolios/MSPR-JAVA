@@ -10,7 +10,7 @@ import java.io.*;
  *
  * @author root
  */
-public class MSPR_JAVA {
+public class main {
 
     /**
      * @param args the command line arguments 
