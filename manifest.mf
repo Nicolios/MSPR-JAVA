@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
 X-COMMENT: Main-Class will be added automatically by build
-Main-Class: com.mspr.java.MSPR_JAVA
+Main-Class: src.mspr.java.MSPR_JAVA
